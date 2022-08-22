@@ -31,7 +31,7 @@ Application mobile
 
 ## Description
 
-Lorem ipsum
+Application mobile permettant de suivre la rotation des pharmacies de garde et de leurs informations utiles à la Martinique via une simple recherche ou par géolocalisation.
 
 ## Aperçus
 
