@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="" alt="GeoPharma logo" width="200" height="165">
+    <img src="https://techmonster.info/media/ressources/logo_geopharma_v2.png" alt="GeoPharma logo" width="200">
   </a>
 </p>
 
@@ -10,7 +10,10 @@
 Application mobile 
   <br>
 
-  > <a href="https://discord.gg/h4d33GacpT">Rejoindre notre communauté sur discord</a>
+  ![img](https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark.png)
+
+Visiter la communauté [Webmonster](https://discord.gg/XU4g5WfH4R) sur Discord.
+
   <br>
 
   Site de veille informatique : <a href="https://techmonster.info/">https://techmonster.info</a>
