@@ -17,9 +17,9 @@ Application mobile
 
   <br>
   <br>
-  <a href="">Rapporter un bug</a>
+  <a href="https://github.com/WestInDev64/geopharma/issues">Rapporter un bug</a>
   ·
-  <a href="">Suggérer une feature</a>
+  <a href="https://github.com/WestInDev64/geopharma/pulls">Suggérer une feature</a>
   
   
 </p>
