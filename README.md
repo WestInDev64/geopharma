@@ -9,8 +9,7 @@
 <p align="center">
 Application mobile 
 <br>
-<img src="https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark.png
-" width="200">
+<img src="https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark.png" alt="Webmonster logo" width="192">
 <br>
 <a href="https://discord.gg/XU4g5WfH4R" >Visiter la communauté sur Discord.</a>
 <br>
