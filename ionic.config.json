@@ -1,0 +1,8 @@
+{
+  "name": "geopharma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "506eb232"
+}
