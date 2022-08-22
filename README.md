@@ -8,27 +8,20 @@
 
 <p align="center">
 Application mobile 
-  <br>
-
-  ![img](https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark.png)
-
-Visiter la communauté [Webmonster](https://discord.gg/XU4g5WfH4R) sur Discord.
-
-  <br>
-
-  Site de veille informatique : <a href="https://techmonster.info/">https://techmonster.info</a>
-
-  <br>
-  <br>
-  <a href="https://github.com/WestInDev64/geopharma/issues">Rapporter un bug</a>
+<br>
+<img src="https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark.png
+" width="200">
+<br>
+<a href="https://discord.gg/XU4g5WfH4R" >Visiter la communauté sur Discord.</a>
+<br>
+<br>
+<br>
+<a href="https://github.com/WestInDev64/geopharma/issues">Rapporter un bug</a>
   ·
   <a href="https://github.com/WestInDev64/geopharma/pulls">Suggérer une feature</a>
-  
-  
 </p>
 
-[logo webmonster]
-> Par Webmonster Antilles
+---
 
 ## 🤖 Stack Technique
 
@@ -45,10 +38,10 @@ Lorem ipsum
 ## 🎨 Features
 
 
-|Features|Statut| 
-|---|--------------| 
-||| 
-||| 
+| Features | Statut |
+| -------- | ------ |
+|          |        |
+|          |        |
 
 ## Contribution au projet
 
