@@ -7,9 +7,13 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class ExploreContainerComponent implements OnInit {
   @Input() name: string;
+  @Input() distance: number;
 
   constructor() { }
 
-  ngOnInit() {}
+  ngOnInit() {
+
+    this.distance = 20;
+  }
 
 }
