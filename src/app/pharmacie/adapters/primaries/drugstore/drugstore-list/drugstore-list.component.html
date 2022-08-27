@@ -1,9 +1,3 @@
-<header>
-  <p>{{ service }} Services</p>
-  <p>{{ distance }} km</p>
-  <p>{{ filter }} filters</p>
-  <p>{{ map }} Carte</p>
-</header>
 <app-drugstore-list-item
   *ngFor="let drugstore of drugstoreList$ | async"
   [drugstore]="drugstore">

@@ -1,6 +1,8 @@
 export class Drugstore {
 
 
+
+
     constructor(
         private _id: String,
         private _name: String,
@@ -9,6 +11,9 @@ export class Drugstore {
         private _address: String,
         private _zipCode: number,
         private _city: String,
+        private _dist: number,
+        private _drivetime: number,
+        private _img: String,
         private _gardeJour: boolean,
         private _gardeNuit: boolean,
         private _schedules: JSON) { }
@@ -27,7 +32,7 @@ export class Drugstore {
     public get tel(): number {
         return this._tel;
     }
-    
+
     public get address(): String {
         return this._address;
     }
@@ -51,4 +56,15 @@ export class Drugstore {
         return this._gardeJour;
     }
 
+    public get drivetime(): number {
+        return this._drivetime;
+    }
+
+    public get dist(): number {
+        return this._dist;
+    }
+    
+    public get img(): String {
+        return this._img;
+    }
 }

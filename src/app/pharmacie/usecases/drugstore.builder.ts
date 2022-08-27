@@ -11,6 +11,9 @@ export class DrugstoreBuilder {
     protected _address: String;
     protected _zipCode: number;
     protected _city: String;
+    protected _dist: number = 2;
+    protected _drivetime: number = 6;
+    protected _img: String = "https://img.icons8.com/color/48/000000/drugstore.png";
     protected _gardeJour: boolean;
     protected _gardeNuit: boolean;
     protected _schedules: JSON;
@@ -76,6 +79,9 @@ export class DrugstoreBuilder {
             this._address,
             this._zipCode,
             this._city,
+            this._dist,
+            this._drivetime,
+            this._img,
             this._gardeJour,
             this._gardeNuit,
             this._schedules,

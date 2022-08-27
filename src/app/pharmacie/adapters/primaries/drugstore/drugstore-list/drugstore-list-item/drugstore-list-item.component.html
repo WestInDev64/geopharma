@@ -1,11 +1,14 @@
 <div class="container-list">
-  <div class="container-left">
-    <p class="dist-time">x km - x min</p>
-    <div class="title">
-      <h5>{{ drugstore.name}}</h5>
-    </div>
-    <div class="drug-location">
-      <p>{{ drugstore.zipCode }} - {{ drugstore.city }}</p>
+  <img src="{{ drugstore.img}}" alt="">
+  <div class="container-center">  
+    <div class="container-left">
+      <p class="dist-time">{{ drugstore.dist }} km - {{ drugstore.drivetime }} min</p>
+      <div class="title">
+        <h5 class="drug-name">{{ drugstore.name}}</h5>
+      </div>
+      <div class="drug-location">
+        <p>{{ drugstore.zipCode }} - {{ drugstore.city }}</p>
+      </div>
     </div>
   </div>
   <button>Détails</button>
