@@ -3,7 +3,7 @@ import { Drugstore } from '../domain/entities/Drugstore';
 import { DrugstorePort } from '../domain/ports/drugstore.port';
 
 
-export class DrugstoreHandle {
+export class DrugstoreHandler {
 
     constructor(private drugstoreSource: DrugstorePort) { }
 

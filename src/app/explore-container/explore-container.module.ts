@@ -5,9 +5,10 @@ import { FormsModule } from '@angular/forms';
 import { IonicModule } from '@ionic/angular';
 
 import { ExploreContainerComponent } from './explore-container.component';
+import { DrugstoreModule } from '../pharmacie/adapters/primaries/drugstore/drugstore.module';
 
 @NgModule({
-  imports: [ CommonModule, FormsModule, IonicModule],
+  imports: [ CommonModule, FormsModule, IonicModule, DrugstoreModule],
   declarations: [ExploreContainerComponent],
   exports: [ExploreContainerComponent]
 })

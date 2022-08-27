@@ -8,7 +8,6 @@ export class InMemoryDrugstoresPort implements DrugstorePort {
 
     constructor(private drugstores: Array<Drugstore>) { }
 
-
     all(): Observable<Drugstore[]> {
         return this.drugstores$;
     }
